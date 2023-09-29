@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application was created with React, but without using any hooks in it. 
 
-Currently, two official plugins are available:
+This is the simple app, using Tailwind instead of CSS. This is an educational project, shows basic skills in React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run application you need to download all its files and open them in some code editor. Then use command "npm run dev" in the terminal.
